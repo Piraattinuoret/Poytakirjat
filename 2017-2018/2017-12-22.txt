@@ -78,7 +78,7 @@ Hei,
 
 Tampereen Tammerkosken yhteiskuntafilosofian nuorista tuli pyyntö saada kuulla teidän näkemyksiänne yhteisestä hyvästä. Tuntimme ovat ti, to ja pe klo 11.10. os. Sammonkatu 2, 33540 Tampere, luokka toinen kerros luokka A 209.
 
- Mahdollisia aikoja on tammikuun esim ti 23.1. puolessa välissä ja lopussa ti, to ja pe klo 11.10 lähtien. Paikkana Tammerkosken lukio luokka A 209.
+Mahdollisia aikoja on tammikuun esim ti 23.1. puolessa välissä ja lopussa ti, to ja pe klo 11.10 lähtien. Paikkana Tammerkosken lukio luokka A 209.
 Kurssin tavoitteena on, että opiskelija
 
 perehtyy yhteiskuntafilosofian keskeisiin käsitteisiin ja suuntauksiin sekä perusnäkemyksiin yksilön suhteesta yhteisöihin, yhteiskuntaan ja valtioon. Oppii käyttämään keskeisiä filosofisia käsitteitä yhteiskunnallisen ja poliittisen toiminnan jäsentämiseen sekä omien yhteiskunnallisten ratkaisujensa perustelemiseen oppii erittelemään oikeudenmukaisuutta, vallankäyttöä ja työnjakoa yksilöiden, yhteisöjen ja instituutioiden toiminnassa.
@@ -112,3 +112,4 @@ Puheenjohtaja päätti kokouksen kello 19.55
 
 Pöytäkirjan tarkastajat Lisäävät nimensä hyväksyttyään pöytäkirjan mahdollisine muutoksineen
 Eetu Rantakangas
+Maija Li Raudaskoski
