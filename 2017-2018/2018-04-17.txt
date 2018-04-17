@@ -1,0 +1,115 @@
+
+
+Piraattinuoret ry
+Hallituksen kokous
+
+Aika: 17.04.2018
+Paikka:  #pinu_hallitus -kanava PirateIRC-IRC-verkossa
+ID: Pinukokous14
+
+Läsnä
+Mikaela Suomalainen
+Riku Martikkala
+Eetu Rantakangas
+Maija Li Rauduskoski
+
+1. Kokouksen avaus
+
+Puheenjohtaja avasi kokouksen kello 18.04
+
+
+2. Kokouksen laillisuus ja päätösvaltaisuus
+
+Kokouksessa on läsnä vähintään puolet hallituksesta. Kokous on laillinen ja päätösvaltainen.
+
+
+3. Esityslistan hyväksyminen
+
+Esityslista hyväksytään
+
+
+4. Pöytäkirjan tarkastajien valinta
+
+Valittiin pöytäkirjantarkastajiksi Mikaela Suomalainen ja Riku Martikkala
+
+
+5. Ilmoitusasiat
+
+https://github.com/Piraattinuoret/Poytakirjat/issues
+-Osallistujien merkintä pöytäkirjoihin on ollut hyvä tapa, jota pyritään jatkamaan.
+-Järjestelmällisyyden ja asioiden helpottamiseksi pöytäkirjoihin lisätään tunniste alkuperäiseen versiointiin.
+ 
+ Pidetään Kokous tauko 18.29-19.00
+
+Sloveniasta on kutsuttu vaalien alla Suomesta porukkaa tukemaan kampanjaa 29.5
+- esitys1: erillinen kokous aiheesta viikonloppuna
+- esitys2: budjetoidaan 300€ matkoihin.
+esitys 2 hyväksytään
+
+6. Uudet jäsenent
+
+https://pirateweb.net/Pages/special/fi/handlepaymentstatus.aspx
+Hyväksytään 2 uutta jäsentä
+
+
+7. Talous
+
+8. URL redirectorin osoite (muunmoassa Discord-linkkiä varten)
+
+Esimerkiksi Discord-kutsulinkki ei ole mukava lausua tai jakaa suoraan, eikä se välttämättä pysy aina samana. Mikaela teki http://piraattinuoret.github.io/discord pysyvämmäksi kutsulinkiksi ja pyysi domainia www2.piraattinuoret.fi käyttöön piraattinuoret.github.io sijaan.
+
+Todettiin, että esitykseen liittyy laajempia kysymyksiä yhdistyksen verkkopalveluiden ja niiden hallinnointivastuun järjestelystä. 
+
+Esitys pöydätään
+
+
+9. Kulukorvauskäytöntöjen muuttaminen
+ 
+Esitys: Muutetaan kulukorvaus käytäntöä vastaamaan nykyistä toimintaa ja korvataan Piraattinuorten toiminnasta johtuvat matkakulut jäsenistölle täysmääräisesti, jos toisin ei ole sovittu. 
+Korjattuesitys: Muutetaan kulukorvaus käytäntöä vastaamaan toiminnan määrän nykytasoa ja korvattaksi päätetyt matkakulut korvataan täysimäärisenä.
+
+Korjattu esitys hyväksytään
+
+
+10. Kulukorvauksia
+
+Esitys: Korvataan Maija Li Raudaskosken jäsenistöön tutustumisreissu Ouluun 4-8.4
+
+Esitys: Korvataan matkakulut Espoon Vaikuttamoon osallistuneille
+
+Molemmat esitykset hyväksytään 
+
+
+11. Kevätkokous
+
+Kevätkokouksen asialistalla
+-Säännöt
+-Periaate-ohjelma
+-Hallitus
+
+Järjestetään kevätkokous kesä-heinäkuussa (toivottu heinäkuuta)
+Esitys1: Tarkka aika Loomio-äänestyksellä
+Esitys2: Tarkka aika sovitaan tässä tai seuraavassa kokouksessa
+
+Esitys pöydätään
+
+
+12.  Muut esille tulevat asiat
+
+-Kesäkuun työpajaviikonloppu
+Esitys Työpajaviikonloppu pidetään 8-10.6 
+Esitys hyväksytään
+
+-Realname nimimerkit
+
+Puolueessa on keskusteltu siitä, että tarkoituksena on mennä tulevissa vuoden 2019 eduskuntavaaleissa läpi, ja pohdittu, että toimintamme voisi vaikuttaa uskottavammalta ellemme piiloutuisi nimimerkkien taakse vaan toimisimme omilla nimillämme siinä missä mahdollista. Discordissa voi asettaa palvelinkohtaisen nimimerkin, jonne voisi laittaa "Etunimi Sukunimi", PirateIRCssä taas ei pitäisi olla muita, kuin piraatteja.
+Tämä ei kuitenkaan ole mahdollista Telegrammissa tai Riotissa (helposti), emmekä halua pakottaa tätä kenellekään, mutta jokainen voi omalla kohdallaan miettiä onko tämä hänelle itselleen mahdollista.
+
+-Piraattipuolue 10v 2018-06-09.
+
+13. Kokouksen päättäminen & pöytäkirjan tarkistaminen
+
+Puheenjohtaja päätti kokouksen kello 21.32
+Pöytäkirjan tarkastajat Lisäävät nimensä hyväksyttyään pöytäkirjan mahdollisine muutoksineen
+Riku Martikkala  https://pad.disroot.org/p/Pinukokous14/timeslider#2641
+Mikaela Suomalainen https://pad.disroot.org/p/Pinukokous14/timeslider#2673
