@@ -1,0 +1,82 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hei,
+
+Ilmoitan tällä viestillä eroavani Piraattinuorten hallituksesta 2018-06-06
+22:56, joka on hetki, jolloin alan kirjoittaa tätä.
+
+Olen viimepäivinä kokenut jaksavani tehdä asioita huonosti. Olen jatkuvasti
+joko tietokoneella tai puhelimessa ja päädyn seuraamaan vastuullani olevia
+pikaviestimiä ja palveluita. Oman tulkintani mukaan minun voisi sanoa jopa
+olevan älypuhelinriippuvainen, eivätkä toimenpiteeni vaikuta olevan
+riittäviä.
+
+Luulen tilanteeni pahentuneen huomattavasti GDPR-paniikin iskiessä,
+muistatte mahdollisesti ne keskustelut #piraatit-kanavalta.
+
+Tämä oli yleisluontoisesti nykytilanteeni. Sitten ongelmiini
+Piraattinuorten hallituksen kanssa. Ensin mieleeni tulee hallituksen kokous
+2018-05-08, joka tapahtui sovitusti kolmantena tiistaina edellisestä
+kokouksesta, muttei tapahtunut. Paikalla ei ollut ketään muuta hallituksen
+jäsentä lukuunottamatta puheenjohtajaa, joka muistaakseni kävi sanomassa,
+ettei pystyisi osallistumaan, enkä jälkeenpäin kyselyistä huolimatta ole
+kuullut kenenkään ilmoittaneen olleensa paikalla.
+
+Toinen mieleenituleva pidempiaikainen ongelma on, etten saa tietoa sitä
+pyytäessäni. Esimerkiksi minun pyydettiin tekevän jotakin verkkopalveluiden
+suhteen ja pyysin useasti pyynnön yksinkertaistamista ja kirjoittamista
+Trelloon, mutta tämä ei koskaan johtanut mihinkään. Muutenkin taidan olla
+ainut joillekin Piraattinuorten Trello-tauluille mitään kirjoittanut
+henkilö.
+
+VoIP-tapaamisissa ja jäsenkirjeen suunnittelussa taas koin etten saanut
+ääntäni kuuluviin tai minun ei ole annettu kertoa miksi esimerkiksi
+kirjoitin luonnokseenkin tarkan ajan Piraattipuolueen 10v-juhlasta (koska
+halusin minimoida riskin, että sen mukana julkaistaisiin virheellistä
+tietoa, kuten Helsingin Piraateilla tapahtui Twitterissä jo kerran).
+
+Viimeisin/viimeinen kriisini Piraattinuorten hallituksessa taas liittyy yhä
+puolueen 10-vuotisjuhliin ja samalle viikonlopulle järjestettyyn
+Piraattinuorten (hallituksen?) työpajautukseen, jonka osallistumisen sanoin
+jo Telegrammissa peruvani tätä kirjoittaessani. Minun oli ensin tarkoitus
+osallistua 10-vuotisjuhlien järjestelyihin (johon osallistumiseni peruin ja
+myöhemmin peruin perumisen tilanteen selkiytyessä), mutta en saanut tietoa
+mihin aikaan minun odotettiin olevan missä Piraattinuorten toimesta ja
+miten sovittaisin nämä asiat yhteen. Lopulta tämänpäiväinen keskustelu ja
+kommunikaatio-ilmapiiri tuntuu liian tulehtuneelta ja katson parhaaksi
+poistua Piraattinuorten hallituksesta, jotta voin keskittyä tehtäviin,
+joista oikeasti pidän ja hoitaa itseni kuntoon.
+
+Ote Piraattinuorten hallituksen keskustelusta:
+
+> ihan oikeesti, jos sä kaipaat opaskarttaa, minuuttiaikataulua,
+> poikkeustilannekuvauksia ja hätäpoistumissuunnitelmaa etukäteen, niin
+> sano siitä ajoissa sen sijaan et rupeet tenttaamaan tässä kohtaa
+
+Piraattinuorten hallituksen keskustelu on julkisesti nähtävillä esimerkiksi
+https://im.piraattinuoret.fi/discord ja https://im.piraattinuoret.fi/matrix
+mikäli ne jotakuta kiinnostavat ja kukaan ei poista näitä keskusteluita.
+
+
+- --
+Mikaela Suomalainen
+Helsingissä 2018-06-06 23:19
+-----BEGIN PGP SIGNATURE-----
+Comment: Website: https://mikaela.info/
+Comment: Fingerprint = 2910 4A46 C561 5BF9 78A0 83F2 0C20 7F07 B2F3 2B67
+
+iQIzBAEBCgAdFiEEKRBKRsVhW/l4oIPyDCB/B7LzK2cFAlsYQfMACgkQDCB/B7Lz
+K2dD9w//Qa7zJzU4H+gwSt9ccQjYoNZjaXyx57cS07CeHs0j6MSLFc3vkLFuGI5d
+ucOqK8ccy4dbWlNPPQ2oX16yjzpCE+7dwBGfsNUDdRNmUaS4LjqUSGETxjwxYz6f
+rB4z5HqVO2RMcxRoIVJ64L1rk72LHgFnT/gbohpwSO21dfCIDIx7FrOoVZUDl39u
+7bH3gFkLQFGKsG1dKfj9GSxflZmXg1OVvxHB+Ou9fD9fm+4TUuedENBNYJSXB8pa
+zDlc9l0v1lf3GYGwz/DGUXq11BpZd1yFMYzMPRSN1lYYzq7NkwxpsvDyKrguBLKy
+WwCVs5LiCIuao2WkwUI2zH2xraqGskZV9eg9FxnO4PlhOUuZiaRMU7TaamdKYh1n
+lR9lFVH8lymMso4V40mskb9F/qj7KKDlVKfLeG/0SKApFN3ojeIcU6h6tvTqn9JA
+5sH8ppLaeUUZ9ZNhvJ8lBzDa0wpwiF2P1vLT1FTcTuSv3fetOqoDSiQ7eb+Vc+bb
+NPNx6fy/Ixe99JFnnSZ60n5+ec4F2JLu2LGRQdev+7rO+5W85jsW4ZeOdI8gYdXD
+5TcuFRdBSRb0jQIGu4s1wy0j4o/c1FCPGqj6STY2uIaZTsi6uvBfzuJ0sxU88Vmm
+Vh7zx3fTdtPW24R5F3xg4kmktQ6NGEOiWKXSoi0XVkX8sR+94UM=
+=e4HB
+-----END PGP SIGNATURE-----
