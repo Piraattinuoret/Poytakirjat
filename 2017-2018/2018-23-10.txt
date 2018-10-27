@@ -1,0 +1,122 @@
+Piraattinuoret ry
+Hallituksen kokous #5 (k2018-19)
+
+Aika: 23.10.2018  19:00
+
+Paikka: #pinu_hallitus-kanava PirateIRC-IRC-verkossa / Pinu hallitus @ Telegram / #ypfi-hallitus @ Discord
+
+ID: pinu-halko-2018-11 (tää pitää korjata, tähän mennessä mennyt kuukausinumeroinnilla, oli sama hankaluus sähköpostikokouksen kanssa)
+
+Läsnä
+Riku Martikkala 
+Timo Levikari (vara)
+Mikaela Suomalainen (vara, äänioikeus 1-7, 8.1-)
+Maija Li Raudaskoski
+Timo Salola
+Miro Pulliainen (kohdasta 2)
+Kiti Suupohja (kohdan 8 ajan)
+
+1. Kokouksen avaus
+Kokous avattiin klo 19:07
+
+2. Kokouksen laillisuus ja päätösvaltaisuus
+Kokouksen pidettiin kolmen viikon käytännön mukaisesti ja siten sen ajankohta on ollut tiedossa kolmen viikon ajan. Jokaisessa kohdan käsittelyssä oli mukana ainakin 5 jäsentä.
+Kokous todettiin lailliseksi ja päätösvaltaiseksi.
+
+Kokouskutsu on lähetetty x päivää (noin viikko) ennen kokousta, kokouksessa on läsnä neljä hallituksen varsinaista jäsentä.
+
+3. Esityslistan hyväksyminen
+Tehty lisäys kohtaan 12, sekä täydennys kohtaan 6.
+
+Esityslista hyväksytty.
+
+4. Pöytäkirjan tarkastaminen
+Valittiin pöytäkirjan tarkistajiksi:
+Miro Pulliainen
+Mikaela Suomalainen
+
+5. Ilmoitusasiat
+Joensuun uusien ilta pidettiin suunnitellusti 20.10. 
+Tapahtumaan osallistui järjestäjien lisäksi neljä henkeä, ja palaute oli positiivista.
+	
+6. Talous
+Tilillä on 7 869,23€
+Talousarvion mukaisesti käytettävissä 2212,70€
+OKM:n nuorisoavustusta käytettävänä  491,7€
+
+Budjetoidut kulut: 
+    Nettisivut ja visuaalinen uudistus: 2480€ (sis. alv.)
+    Joensuu uusien ilta: 100€ + hallituslaisten matkakulut
+		* toteutumassa: 90,8€ (tarjoilut 39,50€, matkakulut 1hlö 50,3€)
+    
+Huomioitavaa: puolue ei vielä ole maksanut kuluvalta (lokakuu) kuulta avustusta. 
+
+7. Hallituksen sähköpostikokouksen pöytäkirjan tarkastus
+
+https://pad.disroot.org/p/pinu-sapohalko-2018-10
+
+9.10. klo 12:10 - 10.10. klo 14:00 pidetyssä sähköpostitkokouksessa käsiteltiin vain Petra Salmen uusi tarjous verkkosivuston ja visuaalisen ilmeen päivityksestä. Kokoukseen osallistui 5/7 jäsenestä ja siten se oli päätösvaltainen.
+
+Kokouksessa esitettiin tarjouksen hyväksymistä sellaisenaan ja tämä sai yksimielisen kannatuksen.
+
+Huomio sähköpostikokousten käytänteistä:
+Sähköpostikokouksen ohjeistuksen mukaan vastaesitykset oli lähetettävä vastauksena kaikille. Tämä jätti muiden viestien lähetyksen kohderyhmän epäselväksi. Seuraavissa kokouksissa pyritään selkeämpään ohjeistukseen.
+
+8. Loppuvuoden toiminta ja tapahtumat
+
+Utopiatyöpajat (verkossa, mahdollisesti yksi viikonlopputapaaminen loppuvuoden aikana - Tampere?)
+Työpajojen valmistelusta kiinnostusta osoittivat:
+~Kiti Suupohja
+~Timo Salola
+~Riku Martikkala
+~Miro Pulliainen
+~Alpi Tolvanen
+
+Aiheesta keskustellaan lisää seuraavassa voipissa.
+
+Uusien illat / järjestön esittelyä Rovaniemellä ja Helsingissä
+Maija Li Raudaskoski selvittää mahdollisia ajankohtia ja kartoittaa potentiaalisia osallistujamääriä.
+
+Eduskunnan ulkopuolisten puolueiden nuorisotoiminnan esittelyä yhteistyössä F*NO!n ja Liberaalinuorten kanssa, todennäköisesti Helsingissä
+Sekä F*NO! ja Liberaalinuoret ovat vahvistaneet olevansa kiinnostuneita tapahtuman järjestämisestä. Järjestetään suunnittelukokous mahdollisimman 
+pian, ja ollaan lisäksi yhteydessä eläinoikeuspuolueeseen.
+
+
+	8.1 Kansainvälinen toiminta
+	PPEU:n vuosikokous (teknisesti neuvoston kokous, "council meeting") pidetään tänä vuonna Reykjavikissa 1.-2. joulukuuta.
+	Piraattipuolueella on neuvostossa yksi ääni, Euroopan piraattinuorilla kaksi ääntä. Kummallakaan ei ole vielä varmistettuja edustajia.
+	
+	Maija Li Raudaskoski on ollut yhteydessä Islannin piraattinuoriin, jotka selvittävät jonkinlaisen piraattinuorten verkostoitumistapaamisen 
+	järjestämistä PPEU:n vuosikokouksen yhteydessä. Myös Ruotsin piraattinuoriin oltu yhteydessä.
+	
+	Halukkaita osallistujia PPEU:n kokoukseen pyritään selvittämään seuraavassa jäsenkirjeessä lähetettävän kyselyn avulla.
+
+9. Materiaalihankinnat
+Ideoita? Intoa?
+
+Paidat ja flyerit jäissä kunnes uusi visuaalinen identiteetti väripaletteineen on tiedossa.
+
+10. Sivustouudistus
+Luodaan keskitetty resurssipankki sivustouudistustyöskentelylle.
+
+Oletuksella Drive, ellei vahvoja vaihtoehtoja esitetä.
+
+Driven käyttö hyväksyttiin käyttökunnossa olevien vaihtoehtojen puutteen vuoksi.
+
+11.  Seuraava kokous
+Seuraavan kokouksen alustava ajankohta on poikkeuksellisesti kaksi viikkoa tämän kokouksen jälkeen, eli tiistai 6.11.2018 klo 19.
+
+12. Muut esille tulevat asiat
+Delegoidaan vastuu hallituksen kokousten kalenterimerkinnöistä.
+
+Kokousten merkitseminen piraattikalenteriin todettu sihteerin tehtäväksi.
+
+13. Kokouksen päättäminen ja pöytäkirjan tarkistaminen
+Kokous päätetty 21:40
+
+Tarkistajina
+Mikaela Suomalainen
+Miro Pulliainen
+
+Tarkastettu:
+    Mikaela Suomalainen ( https://pad.disroot.org/p/pinu-halko-2018-10_2/timeslider#2 - väärä ID, oikeasti pinu-halko-2018-10_2)
