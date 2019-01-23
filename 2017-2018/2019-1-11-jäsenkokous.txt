@@ -1,0 +1,73 @@
+1. Kokouksen avaus
+
+Kokous avattiin klo 17:13.
+
+2. Valitaan kokoukselle puheenjohtaja, sihteeri, kaksi pöytäkirjantarkastajaa ja tarvittava määrä ääntenlaskijoita
+
+Puheenjohtajaksi: Maija Li Raudaskoski
+Sihteeriksi: Timo Salola
+Pöytäkirjantarkastajiksi: Alpi Tolvanen, Eleonora Byckling
+Ääntenlaskija: Mikaela Suomalainen, Miro Pulliainen
+
+Lisäksi etänä mukana Timo Levikari ja kokousta seuraamassa Perttu Honkanen.
+
+
+3. Todetaan kokouksen laillisuus ja päätösvaltaisuus
+
+Kokous on kutsuttu koolle 3 viikkoa etukäteen ja mukana oli 7 järjestön jäsentä. Nämä riittävät päätösvaltaisuuteen.
+
+4. Hyväksytään kokouksen työjärjestys
+
+Kokouksen työjärjestys hyväksyttiin sellaisenaan.
+
+5. Hallitusvaali
+
+    5.1. Puheenjohtajan vaalit
+
+    Puheenjohtajaksi esitetty Maija Li Raudaskoski
+
+    Ei vastalauseita tai muita ehdokkaita.
+
+    Puheenjohtajana jatkaa Maija Li Raudaskoski.
+
+
+    5.2 Varapuheenjohtajien vaalit
+
+    Esitetty kahden varapuheenjohtajan valintaa
+
+    Varapuheenjohtajiksi esitetty Timo Salola, Riku Martikkala
+
+    Ei vastalauseita tai muita ehdokkaita,.
+
+    Varapuheenjohtajina jatkavat Timo Salola, Riku Martikkala.
+
+
+    5.3. Hallituksen muiden varsinaisten jäsenten vaali
+
+    Hallituksen jäseniksi esitetty Miro Pulliainen, Alpi Tolvanen.
+
+    Hallituksen jäseniksi valittu Miro Pulliainen, Alpi Tolvanen.
+
+
+    5.4. Hallituksen varajäsenten vaali
+
+    Hallituksen varajäseniksi esitetty: Timo Levikari.
+
+    Varajäseneksi valittu Timo Levikari.
+
+
+6. Kokousaloitteet
+
+    6.1. Ohjelmamuutosten tekemiseen liittyvät käytännöt (tms)
+
+Poliittisen ohjelman kehitystä kokeillaan githubin avulla. Mikäli github tai jokin toinen alusta osoittautuu sopivaksi kokeilujen aikana, lisäämme ohjelmatyön sekä siihen liittyvät käytänteet osaksi järjestön sääntöjä seuraavassa jäsenkokouksessa.
+
+7. Muut esille tulevat asiat
+
+Ei muita asioita.
+
+8. Kokouksen päättäminen
+
+Kokous päätetty ajassa 18:08
+
+Pötäkirjan tarkastaneet Alpi Tolvanen ja Eleonora Byckling
