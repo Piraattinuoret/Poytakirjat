@@ -1,0 +1,101 @@
+Tämä tiedosto on osa 2019 toimintakertomusta varten tehtyjä muistiinpanoja. 
+Drive-kansiossa: 2019/avustustarkastus 2019/muistiinpanoja 2019 toimintakertomusta varten
+
+2019-01-11-jäsenkokous
+    * Hallitusvaali
+        - Puheenjohtajana jatkaa Maija Li Raudaskoski
+        - Varapuheenjohtajina jatkavat Timo Salola, Riku Martikkala
+        - Hallituksen jäseniksi valittu Miro Pulliainen, Alpi Tolvanen
+        - Varajäseneksi valittu Timo Levikari
+    * Kokousaloitteet
+        - Poliittisen ohjelman kehitystä kokeillaan githubin avulla
+    
+    
+2019-01-23  (ID: pinu-halko-2019-01)
+    * Käytäntö jäsenten hyväksymiselle
+        - Muutos: Puheenjohtajiston edustajat tai valtuutettu henkilö hyväksyy uudet jäsenet, ilmoittaen tämän seuraavassa kokouksessa
+    * Eduskuntavaalit
+        - Tuetaan piraattipuolueen listoilta pyrkiviä piraattinuorten jäseniä vaaleista koituvia kuluja (kuten kampanjamateriaalit) maksimissaan 100€/ ehdokas
+    * Europarlamenttivaalit
+        - Pöydätty esitys: kustannetaan Piraattipuolueen listalta pyrkiviä Piraattinuorten jäseniä ehdokasmaksun verran.
+    * Tapahtumat
+        - Korvataan max 3 hengelle liput ja matkat Desuconiin
+        
+2019-02-17  (ID: pinu-halko-2019-02)
+    * Nuorten ehdokkaiden tukeminen vaaleissa
+        - Asetetaan nuorten ehdokkaiden tuen yläraja 350€:n per henkilö siinä tapauksessa, että OKM:n yleisen toiminta-avustuksen maksu viivästyy yli vaalien tai se jää myöntämättä, muussa tapauksessa 500€:n per henkilö.
+        - Eurovaalien ehdokasasettelu on yhä kesken, pöydätään kohta uudestaan
+        - Materiaalihankinnat
+    * Materiaalihankinnat
+        - Uusia tarroja tilaukseen max 250e
+        - Tilataan 30 paitaa
+    * Tapahtumat ja muut edustustehtävät
+        - (Timo Salola ja Alpi Tolvanen pitivät pöytää desuconissa yhden päivän)
+        - PUSH, Stadin ammattiopisto, 7.3.2019
+        - Vaikuttamo, Espoon kulttuurikeskus
+        - Helsingin poliittisten nuorisojärjestöjen vaalipaneelikiertue lukioissa
+        - Yukicon
+    * Kansainvälinen yhteistyö
+        - Pohjoismaisten piraattinuorten yhteistapahtuma, NORDBUK-hakemuksen suunnitelma
+        - Teknisen infran yhteiskäyttö, Discord tapaaminen ruotsin piraattinuorten kanssa, käytiin läpi infra-ratkaisuja
+    * Talous
+        - Tilillä on 3509,96€
+    * Muut esille tulevat asiat
+        - Tilataan kortsuja kannatustuotebudjetin puitteissa. Timo S hoitaa.
+
+2019-04-30  (ID: pinu-halko-2019-03)
+    * Talous
+        - Tilillä: 11 392,00 OKM avustuksia: 6701,16
+        - Pöydätään Talousarvion tarkastaminen/päivittäminen
+    * Nuorten ehdokkaiden tukeminen vaaleissa
+        - Tuetaan ainutta alle 30-vuotiasta eurovaaliehdokasta 1000€ asti
+    * Helsingin toimitila
+        - Irtisanotaan nykyinen Piraattinuorten vuokraama kiinteistö Helsingistä
+    Kokous päätettiin kesken, ja loput kohdat pöydättiin, (kuten uuden toimitilan budjetointi)
+    
+2019-08-09  (ID: pinu-halko-2019-04)
+    * Talous
+        - Tilillä: 9,560.41€, 
+        - OKM hyväksymä 90% kuluista*: 3,222.61 €
+        - OKM tukia käyttämättä*: 3,222.61 €
+        - Jäljelläoleva budjetti rahastonhoitajan mukaan n. tilin saldo -2000
+        - Pöydätään Talousarvion tarkastaminen/päivittäminen
+    * Valtionavustuksen haku vuodelle 2020
+        - Sovittiin kokoontumisesta lauantaina 21.9
+    * Kansainvälinen toiminta
+        - 15.-17.10. Bryssel, Meppien tapaaminen, vierailu europarlamentissa, YPE:n vuosikokousD
+    * Piraattinuoret ja puolueen tulevaisuuskeskustelu
+        - Keskusteltiin lyhyesti mahdollisista skenaarioista, joissa puolue tavalla tai toisella luopuu piraattibrändistä.
+        
+2019-10-30  (ID: pinu-halko-2019-05)
+    * Talous
+        - Tilillä:9 298,71 €
+        - OKM tukia käyttämättä*: 2960,91 €
+    * Valtionavustuksen haku vuodelle 2020
+        - hyväksytään toimintasuunnitelma, ja valtuutetaan pj viimeistelemään asiakirja
+        - hyväskytään talousarvio
+    * Hankinnat
+        - Uusi flaikku: pyydetään lasku tähänastisesta työstä, ja tarjouspyyntö graafisesta suunnittelusta
+        - Paitatilaus: tilataan paitoja uudella designilla ennen vuoden loppua, alustava määrä 50-100
+        - AV-laitteiden hankinta: budjetoidaan tuhat euroa av-varusteiden hankintaan
+    * Tapahtumat ja kansainvälinen yhteistyö
+        - Assembly Winter 2020, alustava päätös osallistua
+        - IGF, eli Internet Governance Forum, korvataan matka ja majoituskuluja 300 euroon asti per henkilö
+        
+2019-11-13  (ID: pinu-halko-2019-06)
+    * Vuoden 2018 Tilinpäätös kertomus
+        - OKM:n antaman selvityspyynnön jälkeen tarkastelussa on käynyt ilmi, ettei viimme vuoden toimintakertomusta tai tilinpäätöstä olla kokousteknisesti oikeaoppisesti hyväksytetty hallituksella
+        - hyväksytään vuoden 2018 toimintakertomus
+        - hyväksytään vuoden 2018 tilinpäätös
+    * Assembly winter 2020
+        - Osallistutaan Assembly Winter 2020 tapahtumaan, ja Kustannetaan Max 10 sisäänpääsiää konepaikkoineen
+        - Sidosryhmät (kuten ruotsin piraattinuoret) voivat osallistua samaan tilaukseen, kunhan maksavat kulunsa.
+        
+2019-12-14  (ID: pinu-halko-2019-07)
+    * Vuosikokouksen järjestäminen
+        - Järjestetään sääntömääräinen jäsenkokous  sunnuntaina 12.1.2020 klo 15.00
+        
+2019-12-17_sapo  (ID: pinu-halko-2019-08sapo)
+    * Jäsenkokouksen järjestäminen
+        - Mitätöidään kokouksessa pinu-halko-2019-07 kohdassa 6 hyväksytty pohjaesitys jäsenkokouksen ajankohdasta
+        - Järjestetään jäsenkokous 19.01.2020 klo 15.00
