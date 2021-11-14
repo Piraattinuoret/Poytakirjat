@@ -1,0 +1,109 @@
+Piraattinuoret ry
+Hallituksen kokous #1 (k2021-22)
+Aika: 14.11.2021
+Paikka: #pinu_hallitus-kanava PirateIRC-IRC-verkossa / Pinu hallitus @ Telegram / #ypfi-hallitus @ Discord
+
+ID: pinu-halko-2021-2
+
+Läsnä:
+    Alpi Tolvanen
+    Maija Li Raudaskoski
+    Kasperi Heikkilä
+    Timo Levikari klo 17:38 eteenpäin, liittyi mukaan kohdassa 6
+
+1. Kokouksen avaus
+Kokous avattiin klo: 17:25
+
+2. Kokouksen laillisuus ja päätösvaltaisuus
+Kokous on laillinen ja päätösvaltainen.
+
+3. Esityslistan hyväksyminen
+Esityslista hyväksytty.
+
+4. Pöytäkirjan tarkastaminen
+Valittiin pöytäkirjan tarkastajiksi Alpi Tolvanen ja Kasperi Heikkilä.
+
+5. Ilmoitusasiat
+Alpi jää pois hallituksesta tämän kauden päätyttyä.
+
+Maija Li ja Kasperi ovat käyneet syksyn aikana kahdessa Ruotsin piraattinuorten tapahtumassa (UTKIK 2021 ja UTKIK Höst 2021).
+
+6. Hallinto
+
+Esitys: valitaan yhdistyksen sääntömääräisen vuosikokouksen ajankohdaksi lauantai 18.12.2021 klo 14:00.
+
+Esitys hyväksytty. 
+Pyritään lähettämään kokouskutsu viimeistään keskiviikkona 17.11.2021.
+
+Esitys: valitaan vuosikokouksen paikaksi keskustakirjasto Oodi.
+
+Esitys hyväksytty.
+
+Valittiin vuosikokouksen ajankohdaksi 18.12.2021 klo 14:00 ja paikaksi Helsingin keskustakirjasto Oodi.
+
+Etäosallistumismahdollisuus mainitaan kokouskutsussa, ja järjestelyt tehdään, mikäli etäosallistujia on ilmoittautunut kokoukseen mennessä.
+
+Todettu, että (tämänkin esityslistan laatimiseen käytetty) Disrootin Etherpad-instanssi poistaa automaattisesti padit, joita ei ole muokattu puoleen vuoteen. Jatkossa siis huomioidaan tämä, esimerkiksi ottamalla pöytäkirjojen kopiot ja tallettamalla ne Githubiin heti, kun ne valmistuvat, tarvittaessa jo ennen, kuin tarkastajien allekirjoitukset on saatu.
+
+7. Kannatustuotteiden myynti
+Jälkimmäisen t-paitatilauksen jäljellä oleva varasto (54kpl) on myyty Ruotsin piraattinuorille (Ung Pirat) hintaan 1114,90€ (20€/kpl + postikulut). Kaupan tarkoituksena on parantaa yhdistyksen kassatilannetta.
+
+Samalla on selvitetty t-paitojen varastotilannetta. Aiemmasta, pienemmästä 30 kappaleen tilauksesta on yhdistyksen hallussa (nyt Maijalla säilytettävänä) 9kpl, 6kpl on annettu yhdistyksen aktiiveille edustuskäyttöön, ja muutama on myyty Piraattipuolueen aktiiveille. Osan tilanne on epäselvä, sillä paitojen ollessa säilössä entisessä Helsingin toimitilassa toimitilan käyttäjät eivät ole pitäneet varastosta kirjaa. Tarkempi selvitys on tehty hallituksen kanavalla, ja tilannekuvaus kirjataan muistiin ja talletetaan yhdistyksen pilvikansioon.
+
+8. Rekisteriselosteen ja yhteystietojen muuttaminen
+Rekisteriselosteessa ilmoitamme keräävämme jäseniltä postinumeron, vaikka tämä ei ole tarvittavaa yhdistyslain kannalta. Yhdistyksen periaatteista johtuen ihanteellista olisi, ettei jäsenistä tai toimintaan osallistuvista kerätä ylimääräistä tietoa elleivät he sitä vapaaehtoisesti halua tarjota. Rekisteriselosteessa on myös kirjattu Riku Martikkalan tiedot vastuuhenkilöksi, jotka olisi hyvä päivittää.
+
+Esitys: Siirretään postinumero pakollisista tiedoista vapaaehtoisiin tietoihin
+
+Esitys hyväksytty.
+
+Esitys: Muutetaan vastuuyhteishenkilön tiedoiksi Maijan tiedot.
+
+Vastaesitys: nimitetään tietosuojavastaavaksi  .
+
+Vastaesitys hyväksytty.
+
+PRH: järjestelmissä Piraattinuorten osoite vastaa nyt Alpin osoitetta, mutta hän jää pois toiminnasta kauden päätteeksi.
+
+Esitys: päivitetään yhdistyksen PRH:lle rekisteröity osoite Kasperi Heikkilän kotiosoitteeksi.
+
+Esitys hyväksytty.
+
+Sovittu, että Kasperi laatii päivitetyn version tietosuojaselosteesta (nyk./ent. rekisteriseloste). Uusi versio käsitellään ja hyväksytään myöhemmässä hallituksen kokouksessa.
+
+9. Talous
+
+Paitakaupan tulot 1114,90€
+
+Tilillä rahaa 207,11€ 
+Nykyiset juoksevat kulut:
+    - Datapilvi (eli mm. nettisivujen serverit) 131 €/v
+    - Holvi palvelumaksut n. 10 €/v
+
+Datapilven palvelumaksuista on keskusteltu Scoffan (ylläpitäjä, Datapilvi ky:n omistaja) kanssa lokakuussa 2021, tämä todennut että laskutus voidaan laittaa tauolle, jos yhdistyksellä ei ole säännöllisiä tuloja. Kassatilanteen parantumisen johdosta otetaan asia uudelleen esille kun tulee ajankohtaiseksi.
+
+10. Piraattinuorten tulevaisuus
+Yhdistys on ns. pöytälaatikkotilassa: ylläpitämiseen riittää lakisääteisten hallinnollisten tehtävien hoitaminen. Juoksevat kulut on minimoitu, mutta kassassa on paitakauppojen jälkeen jälleen riittävästi rahaa esim. aktiivien matkakulujen korvaamiseen tai toiminnan tukemiseen muulla tavoin.
+
+Maija miettinyt kansainväliseen toimintaan nojaamista yhdistyksen aktivoimiseksi, sillä useissa muissa maissa (etenkin Ruotsi lyhyen etäisyyden takia, mutta myös esim. Islanti ja Tšekki) on aktiivisia sisarjärjestöjä. Esimerkiksi Dreamhackissa käynti ja/tai ruotsalaisten kutsuminen Assemblyille kiinnostivat läsnäolijoita. Myös muita yhteistyön muotoja käytiin läpi: esimerkiksi ruotsalaiset ovat myös vuosia suunnitelleet cryptoparty-henkisten tietoturvatyöpajojen järjestämistä, ja tämäntapaisia voisi hyvin kehittää yhdessä.
+
+Livetapaamisia on yleisesti kaivattu, ja ne alkavat pikku hiljaa taas mahdollisia, kun koronarajoituksia puretaan.
+
+Todettiin, että järjestön suhtautumisesta tai osallistumisaikeista alkuvuoden 2022 aluevaalien kampanjointiin täytynee linjata toimintasuunnitelmassa.
+
+Kasperi on kiinnostunut verkkosivujen teknisestä ja graafisesta kehittämisestä, ja voi tarvittaessa työstää myös muuta grafiikkaa järjestön tarpeisiin.
+
+11. Muut esille tulevat asiat
+
+103 yli-ikäistä jäsentä poistettu yhdistysavaimesta. Jäljellä on 669 jäsentä.
+
+12. Kokouksen päättäminen ja pöytäkirjan tarkistaminen
+Kokous on päättynyt ajassa 19:35.
+
+Tarkistanut
+Alpi Tolvanen
+Kasperi Heikkilä
+
+
+
+
