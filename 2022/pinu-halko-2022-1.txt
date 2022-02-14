@@ -1,0 +1,69 @@
+Piraattinuoret ry
+Hallituksen kokous #1 (k2021-22)
+Aika: 14.2.2022
+Paikka: #pinu_hallitus-kanava PirateIRC-IRC-verkossa / Pinu hallitus @ Telegram / #ypfi-hallitus @ Discord
+
+ID: pinu-halko-2022-1
+
+Läsnä:
+Maija Li Raudaskoski
+Miro Pulliainen
+Alpi Tolvanen
+Timo Levikari
+Kasperi Heikkilä
+
+1. Kokouksen avaus
+Avataan kokous ajassa 19:10
+
+2. Kokouksen laillisuus ja päätösvaltaisuus
+Kokouksessa läsnä kaikki hallituksen jäsenet, olemme päätösvaltaisia. Kokous on kutsuttu ajallaan.
+
+3. Esityslistan hyväksyminen
+Hyväksytty esityslista.
+
+4. Pöytäkirjan tarkastaminen
+Pöytäkirjan tarkastajiksi valittu Miro Pulliainen ja Timo Levikari.
+
+5. Ilmoitusasiat
+Maaliskuun lopulla on Ruotsin piraattinuorten vuosikokous Tukholman lähistöllä, joka on mahdollinen pitkä viikonloppureissu kv-toiminnasta kiinnostuneille.
+
+6. Hallitusroolien jakaminen
+Viralliset hallituksen roolit löytyvät joulukuun vuosikokouksen pöytäkirjasta:
+https://github.com/Piraattinuoret/Poytakirjat/blob/captain/2021-2022/2021-12-18_vuosikokous-2021-pk
+
+Rahastonhoitajan roolin siirtämisessä tarvisi katsoa kuntoon ainakin Holvin ja Yhdistysavaimen käyttö, ja tarkistaa info-mailin ohjautuminen.
+Rahastonhoitajan rooli siirtyy Alpilta Mirolle. 
+
+7. Tilinpäätös vuodelta 2021
+Alustava luonnos edellisvuoden tilinpäätöksestä löytyy drive-kansiosta (vaatii oikeudet):
+https://docs.google.com/spreadsheets/d/16ctXA-jgS1akzo8ITRt_oXOdhoZmo4Lc/edit?usp=sharing&ouid=114403882027060936081&rtpof=true&sd=true
+
+Olisi kätevää käsitellä tilinpäätös nyt pois alta, jotta sen voi vain hyväksyä seuraavassa vuosikokouksessa.
+
+Sovittiin ajankohta lauantai 19.2 klo 13 tilinpäätöksen ja toimintakertomuksen valmistelulle.
+
+8. Rekisteriselosteen päivittäminen tietosuojaselosteeksi
+Edellisessä hallituksen kokouksessa sovimme että päivitämme vanhentuneen rekisteriselosteemme nykyaikaiseksi tietosuojaselosteeksi, jonka Kasperi on nyt meille hienosti tehnyt. Merkittävimmät sisällölliset muutokset ovat Riku Martikkalan yhteystietojen päivitys Kasperille, ja postinumeron poistaminen jäseniltä pakollisen tietona. 
+
+Linkki tietosuojaselosteeseen (vaatii pääsyoikeudet):
+https://docs.google.com/document/d/1Crw3TGwi32NfPvaumzlCD_FFNevR2MUoZJD4ACqNllg/edit?usp=sharing
+Linkki edellisen hallituksen kokouksen pöytäkirjaan jossa käsittelimme asiaa:
+https://github.com/Piraattinuoret/Poytakirjat/blob/captain/2021-2022/2021-11-14_pinu-halko-2021-2.txt
+
+Esitys: Hyväksytään tietosuojaseloste.
+Esitys hyväksytty.
+
+9. Talous
+Tilillä rahaa 1 259,79.
+
+10. Muut esille tulevat asiat
+Yliopiston ylioppilaskunnan edustajistovaalit tulossa Helsingissä syksyllä. Mikäli asia kiinnostaa, Akateemisten piraattien  kohtaloa/tilaa voisi selvitellä.
+
+Puhuttiin verkkosivuston uudistamisesta minimalistisempaan ja ajantasaisempaan, staattiseen muotoon.
+
+11. Kokouksen päättäminen ja pöytäkirjan tarkistaminen
+Päätetään kokous aikaan 20:03
+
+Tarkistanut
+Timo Levikari
+Miro Pulliainen
