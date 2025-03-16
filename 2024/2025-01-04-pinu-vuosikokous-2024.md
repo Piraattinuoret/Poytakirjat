@@ -33,7 +33,7 @@ Läsnäolijat:
 2. Kokouksen puheenjohtajan, sihteerin, pöytäkirjantarkastajien ja äänenlaskijoiden valinnat
 
    * Valittiin puheenjohtajaksi Maija Li Raudaskoski, sihteeriksi Miro Pulliainen, pöytäkirjantarkastajiksi Maija Li Raudaskoski ja Kasperi Heikkilä sekä ääntenlaskijoiksi Miro Pulliainen ja Kasperi Heikkilä.
-   * 
+ 
 
 3. Kokouksen laillisuus ja päätösvaltaisuus
 
@@ -43,31 +43,31 @@ Läsnäolijat:
 4. Kokouksen esityslistan hyväksyminen
 
    * Kokouksen esityslista on hyväksytty sellaisenaan.
-   * 
+    
 
 5. Vuoden 2023 tilinpäätös ja toimintakertomus
 
    * Käsitellään vuoden 2023 tilinpäätös sekä toimintakertomus, ja päätetään niiden hyväksymisestä
-   * 
+    
 
    * Hyväksyttiin vuoden 2023 tilinpäätös sekä toimintakertomus asianmukaisina ja oikeellisina.
-   * 
+    
 
 6. Vastuuvapauden myöntäminen vuoden 2023 hallitukselle
 
-   * 
+    
 
-   * Toimintakertomus 2023:
+   Toimintakertomus 2023:
    * [https://drive.google.com/file/d/1JDXql16Eu9mEj5JTaZDVrmjQ76APfREA/view?usp=drive\_link](https://drive.google.com/file/d/1JDXql16Eu9mEj5JTaZDVrmjQ76APfREA/view?usp=drive\_link)
-   * 
+    
 
-   * Tase 2023:
+     Tase 2023:
    * [https://drive.google.com/file/d/1\_N6bGZ62pGY8Us4t0T6nIfRtQgdis-qn/view?usp=drive\_link](https://drive.google.com/file/d/1\_N6bGZ62pGY8Us4t0T6nIfRtQgdis-qn/view?usp=drive\_link)
-   * 
+    
 
-   * Tuloslaskelma 2023:
+     Tuloslaskelma 2023:
    * [https://drive.google.com/file/d/18c98Ng76NmDAPsECkY\_G\_XnhqvWBCq0r/view?usp=drive\_link](https://drive.google.com/file/d/18c98Ng76NmDAPsECkY\_G\_XnhqvWBCq0r/view?usp=drive\_link)
-   * 
+    
 
    * Myönnettiin vastuuvapaus vuoden 2023 hallitukselle.
 
@@ -75,40 +75,40 @@ Läsnäolijat:
 7. Vuoden 2025 toimintasuunnitelma
 
    * Käsitellään toimintasuunnitelma vuodelle 2025 ja päätetään sen vahvistamisesta
-   * 
+    
 
-   * Toimintasuunnitelma 2025:
+     Toimintasuunnitelma 2025:
    * [https://drive.google.com/file/d/1TFrrqVITJGJ9bghm112ccQQK7t0dArhm/view?usp=drive\_link](https://drive.google.com/file/d/1TFrrqVITJGJ9bghm112ccQQK7t0dArhm/view?usp=drive\_link)
-   * 
+    
 
    * Hyväksyttiin vuoden 2025 toimintasuunnitelma.
-   * 
+    
 
 8. Vuoden 2025 talousarvio
 
    * Käsitellään talousarvio vuodelle 2025 ja päätetään sen vahvistamisesta
-   * 
+    
 
-   * Talousarvio 2025:
+     Talousarvio 2025:
    * [https://drive.google.com/file/d/1Q54jtnbg8zUfSmKs9u8bhCjn3xptNRbj/view?usp=drive\_link](https://drive.google.com/file/d/1Q54jtnbg8zUfSmKs9u8bhCjn3xptNRbj/view?usp=drive\_link)
-   * 
+    
 
    * Esitys: lisätään kohtaan kulukorvaukset 200€, uusi kokonaissumma 200€.
    * Hyväksyttiin esitys.
-   * 
+    
 
    * Esitys: lisätään kohtaan kansainvälinen toiminta 200€, uusi kokonaissumma 350€.
    * Hyväksyttiin esitys.
-   * 
+     
 
    * Hyväksyttiin vuoden 2025 talousarvio muutosesityksineen:
    * [https://drive.google.com/file/d/1iTBwkkux\_HU\_VkjJZlPhP8TIs12kGtSW/view?usp=drive\_link](https://drive.google.com/file/d/1iTBwkkux\_HU\_VkjJZlPhP8TIs12kGtSW/view?usp=drive\_link)
-   * 
+     
 
 9. Hallituksen valinta
 
    * Todettiin, että hallitus jää tehdyillä valinnoilla sääntöjen perusteella yhden varsinaisen jäsenen verran vajaaksi. Pyritään mahdollisimman pian järjestämään ylimääräinen yhdistyksen kokous, jossa täydennetään hallitusta vähintään yhdellä jäsenellä.
-   * 
+     
 
   9.1 Hallituksen puheenjohtajavaali
 
@@ -145,22 +145,22 @@ Läsnäolijat:
    * Valitaan yhdistykselle toiminnantarkastaja ja varatoiminnantarkastaja
    * Käytettäväksi ovat ilmoittautuneet Utu Hopiavuori toiminnantarkastajaksi sekä Juho Karvinen varatoiminnantarkastajaksi.
    * Valittiin Utu Hopiavuori toiminnantarkastajaksi sekä Juho Karvinen varatoiminnantarkastajaksi.
-   * 
+     
 
 11. Kokousaloitteet
 
    * Ei kokousaloitteita.
-   * 
+     
 
 12. Muut esille tulevat asiat
 
    * Ei muita esille tulevia asioita.
-   * 
+     
 
 13. Kokouksen päättäminen
 
    * Kokous päätetty ajassa 15:17.
-   * 
+     
 
 Tarkastanut
 
