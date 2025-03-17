@@ -1,9 +1,11 @@
 Piraattinuoret ry
 Hallituksen kokous #X (k20XX-XX)
-Aika: xx.xx.xxxx klo xx:xx EEST / xx:xx HKT
+Aika: xx.xx.20xx klo xx:xx EEST / xx:xx HKT
 Paikka: online / https://jitsi.pirati.cz/pinu-halko
 
-ID: pinu-halko-xxxx-x
+ID: pinu-halko-20xx-x
+
+Kokouksen pöytäkirja
 
 Läsnä: 
         
@@ -37,5 +39,5 @@ Pöytäkirjan tarkastajiksi valittiin
 9. Kokouksen päättäminen
 
 
-Tarkistanut
+Tarkastanut
 
