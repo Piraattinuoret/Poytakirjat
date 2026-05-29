@@ -18,7 +18,7 @@ Paikalla Oodissa
 Etänä
 
    * Aminda Suomalainen
-   * 
+     
 
 1. Kokouksen avaus
 
@@ -28,12 +28,12 @@ Etänä
 2. Kokouksen puheenjohtajan, sihteerin, pöytäkirjantarkastajien ja ääntenlaskijoiden valinnat
 
    * Valittiin puheenjohtajaksi Miro Pulliainen, sihteeriksi Maija Raudaskoski, pöytäkirjantarkastajiksi Miro Pulliainen ja Aminda Suomalainen. Pienen osallistujamäärän vuoksi ei valittu erillisiä ääntenlaskijoita.
-   * 
+     
 
 3. Kokouksen laillisuus ja päätösvaltaisuus
 
    * Kokous on kutsuttu koolle sääntöjen mukaisesti yli kolme viikkoa ennen kokousajankohtaa. Kokous on laillinen ja päätösvaltainen.
-   * 
+     
 
 4. Kokouksen työjärjestyksen hyväksyminen
 
@@ -43,13 +43,13 @@ Etänä
 5. Vuoden 2024 tilinpäätös ja toimintakertomus
 
    * Käsitellään vuoden 2024 tilinpäätös sekä toimintakertomus, ja päätetään niiden hyväksymisestä.
-   * 
+     
 
    * Käytiin läpi asiakirjat ja toiminnantarkastuskertomus.
-   * 
+     
 
    * Hyväksyttiin vuoden 2024 tilinpäätös ja toiminnantarkastus.
-   * 
+     
 
 6. Vastuuvapauden myöntäminen vuoden 2024 hallitukselle
 
@@ -59,16 +59,16 @@ Etänä
 7. Vuoden 2025 tilinpäätös ja toimintakertomus
 
    * Käsitellään vuoden 2025 tilinpäätös sekä toimintakertomus, ja päätetään niiden hyväksymisestä.
-   * 
+     
 
    * Käytiin läpi asiakirjat ja toiminnantarkastuskertomus.
-   * 
+     
 
    * Esitettiin tarkentavaa lisäystä koskien pohjoismaisen yhteistyöprojektin sisältöä.
-   * 
+     
 
    * Hyväksyttiin lisäys.
-   * 
+     
 
    * Hyväksyttiin vuoden 2025 tilinpäätös ja toiminnantarkastus.
 
@@ -81,7 +81,7 @@ Etänä
 9. Vuoden 2026 toimintasuunnitelma
 
    * Käsitellään toimintasuunnitelma vuodelle 2026 ja päätetään sen vahvistamisesta.
-   * 
+     
 
    * Hyväksyttiin vuoden 2026 toimintasuunnitelma sellaisenaan.
 
@@ -89,7 +89,7 @@ Etänä
 10. Vuoden 2026 talousarvio
 
    * Käsitellään talousarvio vuodelle 2026 ja päätetään sen vahvistamisesta
-   * 
+     
 
    * Hyväksyttiin vuoden 2026 talousarvio.
 
@@ -123,17 +123,17 @@ Etänä
    * Valitaan yhdistykselle toiminnantarkastaja ja varatoiminnantarkastaja
    * Käytettäväksi ovat ilmoittautuneet Utu Hopiavuori toiminnantarkastajaksi sekä Juho Karvinen varatoiminnantarkastajaksi.
    * Valittiin toiminnantarkastajaksi Utu Hopiavuori sekä varatoiminnantarkastajaksi Juho Karvinen.
-   * 
+     
 
 13. Kokousaloitteet
 
    * Ei kokousaloitteita.
-   * 
+     
 
 14. Muut esille tulevat asiat
 
    * Ei muita esille tulevia asioita.
-   * 
+     
 
 15. Kokouksen päättäminen
 
