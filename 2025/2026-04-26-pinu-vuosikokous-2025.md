@@ -15,6 +15,7 @@ Paikalla Oodissa
 
    * Miro Pulliainen
    * Maija Raudaskoski
+     
 Etänä
 
    * Aminda Suomalainen
